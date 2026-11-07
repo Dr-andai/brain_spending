@@ -1,0 +1,205 @@
+source_table,source_pdf_pages,source_rows,location,income_group_2019,gbd_super_region,year,spending_per_capita_2021_usd,spending_per_capita_2021_usd_lower,spending_per_capita_2021_usd_upper,iso3,mapping_source,eligible_income,exposure_2019,exposure_lower,exposure_upper,at_or_above_reference,near_reference,uncertainty_position,inclusion_status
+S7,18,18:1,North Korea,Low-income,"Southeast Asia, east Asia, and Oceania",2019,9.2,6.5,13.2,PRK,GBD metadata,TRUE,9.2,6.5,13.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:2,Tajikistan,Low-income,"Central Europe, eastern Europe, and central Asia",2019,15.3,11.5,19.1,TJK,GBD metadata,TRUE,15.3,11.5,19.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:3,Haiti,Low-income,Latin America and Caribbean,2019,14.3,10.7,20.9,HTI,GBD metadata,TRUE,14.3,10.7,20.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:4,Syria,Low-income,North Africa and Middle East,2019,6.4,4.4,9.5,SYR,GBD metadata,TRUE,6.4,4.4,9.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:5,Yemen,Low-income,North Africa and Middle East,2019,6.3,4.7,8.7,YEM,GBD metadata,TRUE,6.3,4.7,8.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:6,Afghanistan,Low-income,North Africa and Middle East,2019,14.3,11.4,17.7,AFG,GBD metadata,TRUE,14.3,11.4,17.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:7,Central African Republic,Low-income,Sub-Saharan Africa,2019,5,3.5,7.5,CAF,GBD metadata,TRUE,5,3.5,7.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:8,DR Congo,Low-income,Sub-Saharan Africa,2019,4.1,2.7,6.1,COD,Explicit source-name alias in analyze.R,TRUE,4.1,2.7,6.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:9,Burundi,Low-income,Sub-Saharan Africa,2019,3.3,2.2,4.9,BDI,GBD metadata,TRUE,3.3,2.2,4.9,TRUE,FALSE,interval_crosses_reference,included_2019_low_or_middle_income
+S7,18,18:10,Eritrea,Low-income,Sub-Saharan Africa,2019,3.4,2.2,5.1,ERI,GBD metadata,TRUE,3.4,2.2,5.1,TRUE,FALSE,interval_crosses_reference,included_2019_low_or_middle_income
+S7,18,18:11,Ethiopia,Low-income,Sub-Saharan Africa,2019,5.2,3.5,7.2,ETH,GBD metadata,TRUE,5.2,3.5,7.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:12,Madagascar,Low-income,Sub-Saharan Africa,2019,2.5,1.5,4,MDG,GBD metadata,TRUE,2.5,1.5,4,TRUE,TRUE,interval_crosses_reference,included_2019_low_or_middle_income
+S7,18,18:13,Malawi,Low-income,Sub-Saharan Africa,2019,6.8,4.7,9.9,MWI,GBD metadata,TRUE,6.8,4.7,9.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:14,Mozambique,Low-income,Sub-Saharan Africa,2019,5.1,3.7,7.1,MOZ,GBD metadata,TRUE,5.1,3.7,7.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,18,18:15,Rwanda,Low-income,Sub-Saharan Africa,2019,10.1,7.4,14.1,RWA,GBD metadata,TRUE,10.1,7.4,14.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:1,Somalia,Low-income,Sub-Saharan Africa,2019,2.4,1.6,3.7,SOM,GBD metadata,TRUE,2.4,1.6,3.7,TRUE,TRUE,interval_crosses_reference,included_2019_low_or_middle_income
+S7,19,19:2,Uganda,Low-income,Sub-Saharan Africa,2019,6.3,4.4,9.1,UGA,GBD metadata,TRUE,6.3,4.4,9.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:3,Burkina Faso,Low-income,Sub-Saharan Africa,2019,6.6,4.7,10.3,BFA,GBD metadata,TRUE,6.6,4.7,10.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:4,Chad,Low-income,Sub-Saharan Africa,2019,3.8,2.6,5.8,TCD,GBD metadata,TRUE,3.8,2.6,5.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:5,The Gambia,Low-income,Sub-Saharan Africa,2019,6.2,4.4,9.3,GMB,Explicit source-name alias in analyze.R,TRUE,6.2,4.4,9.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:6,Guinea,Low-income,Sub-Saharan Africa,2019,5.5,3.8,9.9,GIN,GBD metadata,TRUE,5.5,3.8,9.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:7,Guinea-Bissau,Low-income,Sub-Saharan Africa,2019,9.6,6.9,15,GNB,GBD metadata,TRUE,9.6,6.9,15,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:8,Liberia,Low-income,Sub-Saharan Africa,2019,9.1,6.6,13.9,LBR,GBD metadata,TRUE,9.1,6.6,13.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:9,Mali,Low-income,Sub-Saharan Africa,2019,4.7,3.2,7.5,MLI,GBD metadata,TRUE,4.7,3.2,7.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:10,Niger,Low-income,Sub-Saharan Africa,2019,4.7,3.3,7.1,NER,GBD metadata,TRUE,4.7,3.3,7.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:11,Sierra Leone,Low-income,Sub-Saharan Africa,2019,6.6,4.2,12.4,SLE,GBD metadata,TRUE,6.6,4.2,12.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:12,Togo,Low-income,Sub-Saharan Africa,2019,7.4,5.5,10.3,TGO,GBD metadata,TRUE,7.4,5.5,10.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:13,South Sudan,Low-income,Sub-Saharan Africa,2019,6.6,4.8,9.9,SSD,GBD metadata,TRUE,6.6,4.8,9.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,19,19:14,Sudan,Low-income,North Africa and Middle East,2019,10.8,7.9,14.5,SDN,GBD metadata,TRUE,10.8,7.9,14.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:1,Cambodia,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,18,13.5,23.8,KHM,GBD metadata,TRUE,18,13.5,23.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:2,Laos,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,12.6,9.5,16.7,LAO,GBD metadata,TRUE,12.6,9.5,16.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:3,Myanmar,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,14.1,10.5,19.1,MMR,GBD metadata,TRUE,14.1,10.5,19.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:4,Philippines,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,26.8,21.6,33.2,PHL,GBD metadata,TRUE,26.8,21.6,33.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:5,Sri Lanka,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,30.8,24.6,38.6,LKA,GBD metadata,TRUE,30.8,24.6,38.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:6,Timor-Leste,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,10.7,8.3,14.4,TLS,Brain Health Atlas roster,TRUE,10.7,8.3,14.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:7,Viet Nam,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,27.5,22,34.5,VNM,GBD metadata,TRUE,27.5,22,34.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:8,Kiribati,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,45.1,38.4,53.3,KIR,GBD metadata,TRUE,45.1,38.4,53.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:9,Federated States of Micronesia,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,25.6,20.3,32.4,FSM,Explicit source-name alias in analyze.R,TRUE,25.6,20.3,32.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:10,Papua New Guinea,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,11.9,9.1,15.7,PNG,GBD metadata,TRUE,11.9,9.1,15.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:11,Solomon Islands,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,15.1,11.7,19.7,SLB,GBD metadata,TRUE,15.1,11.7,19.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:12,Vanuatu,Lower-middle-income,"Southeast Asia, east Asia, and Oceania",2019,17.9,14.1,23.3,VUT,GBD metadata,TRUE,17.9,14.1,23.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:13,Kyrgyzstan,Lower-middle-income,"Central Europe, eastern Europe, and central Asia",2019,14.3,11,17.8,KGZ,GBD metadata,TRUE,14.3,11,17.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:14,Mongolia,Lower-middle-income,"Central Europe, eastern Europe, and central Asia",2019,45.3,35.6,54.8,MNG,GBD metadata,TRUE,45.3,35.6,54.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,20,20:15,Uzbekistan,Lower-middle-income,"Central Europe, eastern Europe, and central Asia",2019,22.2,17.4,26.8,UZB,GBD metadata,TRUE,22.2,17.4,26.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:1,Moldova,Lower-middle-income,"Central Europe, eastern Europe, and central Asia",2019,41.9,32.4,51.2,MDA,GBD metadata,TRUE,41.9,32.4,51.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:2,Ukraine,Lower-middle-income,"Central Europe, eastern Europe, and central Asia",2019,69.6,53,84.3,UKR,GBD metadata,TRUE,69.6,53,84.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:3,Bolivia,Lower-middle-income,Latin America and Caribbean,2019,56.5,44.1,95.5,BOL,GBD metadata,TRUE,56.5,44.1,95.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:4,El Salvador,Lower-middle-income,Latin America and Caribbean,2019,80.8,58.6,170.7,SLV,GBD metadata,TRUE,80.8,58.6,170.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:5,Honduras,Lower-middle-income,Latin America and Caribbean,2019,46,35.9,74.3,HND,GBD metadata,TRUE,46,35.9,74.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:6,Nicaragua,Lower-middle-income,Latin America and Caribbean,2019,37,29.7,49.5,NIC,GBD metadata,TRUE,37,29.7,49.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:7,Algeria,Lower-middle-income,North Africa and Middle East,2019,44.1,36.4,52.5,DZA,GBD metadata,TRUE,44.1,36.4,52.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:8,Egypt,Lower-middle-income,North Africa and Middle East,2019,31,25.3,37.4,EGY,GBD metadata,TRUE,31,25.3,37.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:9,Morocco,Lower-middle-income,North Africa and Middle East,2019,38.9,31.9,46.5,MAR,GBD metadata,TRUE,38.9,31.9,46.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:10,Palestine,Lower-middle-income,North Africa and Middle East,2019,63.4,53.5,77.9,PSE,Explicit source-name alias in analyze.R,TRUE,63.4,53.5,77.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:11,Tunisia,Lower-middle-income,North Africa and Middle East,2019,51.5,42.3,61,TUN,GBD metadata,TRUE,51.5,42.3,61,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:12,Bangladesh,Lower-middle-income,South Asia,2019,9.5,7.3,12.5,BGD,GBD metadata,TRUE,9.5,7.3,12.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:13,Bhutan,Lower-middle-income,South Asia,2019,25.8,20,30.6,BTN,GBD metadata,TRUE,25.8,20,30.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:14,India,Lower-middle-income,South Asia,2019,10.2,7.6,13.7,IND,GBD metadata,TRUE,10.2,7.6,13.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,21,21:15,Nepal,Lower-middle-income,South Asia,2019,8.9,6.6,12,NPL,GBD metadata,TRUE,8.9,6.6,12,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:1,Pakistan,Lower-middle-income,South Asia,2019,7.2,5.3,10,PAK,GBD metadata,TRUE,7.2,5.3,10,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:2,Angola,Lower-middle-income,Sub-Saharan Africa,2019,8.6,6.2,12.2,AGO,GBD metadata,TRUE,8.6,6.2,12.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:3,Congo (Brazzaville),Lower-middle-income,Sub-Saharan Africa,2019,7.3,5.2,10.2,COG,Explicit source-name alias in analyze.R,TRUE,7.3,5.2,10.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:4,Comoros,Lower-middle-income,Sub-Saharan Africa,2019,16.2,11.9,22.3,COM,GBD metadata,TRUE,16.2,11.9,22.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:5,Djibouti,Lower-middle-income,Sub-Saharan Africa,2019,9.8,7.1,13.1,DJI,GBD metadata,TRUE,9.8,7.1,13.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:6,Kenya,Lower-middle-income,Sub-Saharan Africa,2019,11.8,8.2,18.3,KEN,GBD metadata,TRUE,11.8,8.2,18.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:7,Tanzania,Lower-middle-income,Sub-Saharan Africa,2019,5,3.5,7.8,TZA,GBD metadata,TRUE,5,3.5,7.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:8,Zambia,Lower-middle-income,Sub-Saharan Africa,2019,9.5,7,12.4,ZMB,GBD metadata,TRUE,9.5,7,12.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:9,Lesotho,Lower-middle-income,Sub-Saharan Africa,2019,16.3,12.1,23.6,LSO,GBD metadata,TRUE,16.3,12.1,23.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:10,Eswatini,Lower-middle-income,Sub-Saharan Africa,2019,35.1,22.2,66.8,SWZ,GBD metadata,TRUE,35.1,22.2,66.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:11,Zimbabwe,Lower-middle-income,Sub-Saharan Africa,2019,4.6,3.1,7,ZWE,GBD metadata,TRUE,4.6,3.1,7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:12,Benin,Lower-middle-income,Sub-Saharan Africa,2019,2.1,1.2,3.6,BEN,GBD metadata,TRUE,2.1,1.2,3.6,FALSE,TRUE,interval_crosses_reference,included_2019_low_or_middle_income
+S7,22,22:13,Cameroon,Lower-middle-income,Sub-Saharan Africa,2019,5.2,3.7,7.4,CMR,GBD metadata,TRUE,5.2,3.7,7.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:14,Cabo Verde,Lower-middle-income,Sub-Saharan Africa,2019,36.3,25.9,58.5,CPV,World Bank name metadata,TRUE,36.3,25.9,58.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,22,22:15,Côte d'Ivoire,Lower-middle-income,Sub-Saharan Africa,2019,8.2,5.9,12.2,CIV,GBD metadata,TRUE,8.2,5.9,12.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:1,Ghana,Lower-middle-income,Sub-Saharan Africa,2019,15.8,11.2,26.5,GHA,GBD metadata,TRUE,15.8,11.2,26.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:2,Mauritania,Lower-middle-income,Sub-Saharan Africa,2019,9.4,7,14.6,MRT,GBD metadata,TRUE,9.4,7,14.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:3,Nigeria,Lower-middle-income,Sub-Saharan Africa,2019,6.3,4.2,9.7,NGA,GBD metadata,TRUE,6.3,4.2,9.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:4,São Tomé and Príncipe,Lower-middle-income,Sub-Saharan Africa,2019,30.9,21.7,55.4,STP,GBD metadata,TRUE,30.9,21.7,55.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:5,Senegal,Lower-middle-income,Sub-Saharan Africa,2019,9.6,7.2,13.7,SEN,GBD metadata,TRUE,9.6,7.2,13.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:7,China,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,141,113.1,178,CHN,GBD metadata,TRUE,141,113.1,178,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:8,Indonesia,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,20.4,16,26.4,IDN,GBD metadata,TRUE,20.4,16,26.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:9,Malaysia,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,58.8,48.6,71,MYS,GBD metadata,TRUE,58.8,48.6,71,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:10,Maldives,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,107.9,87.9,129.1,MDV,GBD metadata,TRUE,107.9,87.9,129.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:11,Thailand,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,42.2,33.3,53.4,THA,GBD metadata,TRUE,42.2,33.3,53.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:12,Fiji,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,34.6,28.4,42.2,FJI,GBD metadata,TRUE,34.6,28.4,42.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:13,Marshall Islands,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,112.3,94.8,131.4,MHL,GBD metadata,TRUE,112.3,94.8,131.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:14,Samoa,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,37.8,31.1,46.4,WSM,GBD metadata,TRUE,37.8,31.1,46.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,23,23:15,Tonga,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,33,26.8,40.6,TON,GBD metadata,TRUE,33,26.8,40.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:1,Armenia,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,92.7,67.6,112.6,ARM,GBD metadata,TRUE,92.7,67.6,112.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:2,Azerbaijan,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,39.2,31.6,46.9,AZE,GBD metadata,TRUE,39.2,31.6,46.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:3,Georgia,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,62.7,50.9,74.1,GEO,GBD metadata,TRUE,62.7,50.9,74.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:4,Kazakhstan,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,56.4,44.6,66.7,KAZ,GBD metadata,TRUE,56.4,44.6,66.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:5,Turkmenistan,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,124.5,98.7,154.4,TKM,GBD metadata,TRUE,124.5,98.7,154.4,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:6,Albania,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,91.4,77.3,106.7,ALB,GBD metadata,TRUE,91.4,77.3,106.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:7,Bosnia and Herzegovina,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,113.2,88.9,136.8,BIH,GBD metadata,TRUE,113.2,88.9,136.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:8,Bulgaria,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,161,128.2,193,BGR,GBD metadata,TRUE,161,128.2,193,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:9,North Macedonia,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,101.1,79.8,122,MKD,GBD metadata,TRUE,101.1,79.8,122,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:10,Montenegro,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,141.9,111.8,175,MNE,GBD metadata,TRUE,141.9,111.8,175,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:11,Serbia,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,122.3,98,145.3,SRB,GBD metadata,TRUE,122.3,98,145.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:12,Belarus,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,67.1,52.9,81,BLR,GBD metadata,TRUE,67.1,52.9,81,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:13,Russia,Upper-middle-income,"Central Europe, eastern Europe, and central Asia",2019,97,74.1,121.7,RUS,GBD metadata,TRUE,97,74.1,121.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:14,Argentina,Upper-middle-income,High income,2019,200.9,181.6,225.3,ARG,GBD metadata,TRUE,200.9,181.6,225.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,24,24:15,Belize,Upper-middle-income,Latin America and Caribbean,2019,53.5,41.3,93.3,BLZ,GBD metadata,TRUE,53.5,41.3,93.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:1,Cuba,Upper-middle-income,Latin America and Caribbean,2019,737.1,422.4,2189.6,CUB,GBD metadata,TRUE,737.1,422.4,2189.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:2,Dominica,Upper-middle-income,Latin America and Caribbean,2019,98.9,73.1,185.1,DMA,GBD metadata,TRUE,98.9,73.1,185.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:3,Dominican Republic,Upper-middle-income,Latin America and Caribbean,2019,78.6,59.5,129.6,DOM,GBD metadata,TRUE,78.6,59.5,129.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:4,Grenada,Upper-middle-income,Latin America and Caribbean,2019,106.1,79.8,193.3,GRD,GBD metadata,TRUE,106.1,79.8,193.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:5,Guyana,Upper-middle-income,Latin America and Caribbean,2019,43.5,30.3,94,GUY,GBD metadata,TRUE,43.5,30.3,94,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:6,Jamaica,Upper-middle-income,Latin America and Caribbean,2019,73.2,56.1,130.3,JAM,GBD metadata,TRUE,73.2,56.1,130.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:7,Saint Lucia,Upper-middle-income,Latin America and Caribbean,2019,105.4,79.3,191.8,LCA,GBD metadata,TRUE,105.4,79.3,191.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:8,Saint Vincent and the Grenadines,Upper-middle-income,Latin America and Caribbean,2019,72.9,56.1,126.7,VCT,GBD metadata,TRUE,72.9,56.1,126.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:9,Suriname,Upper-middle-income,Latin America and Caribbean,2019,108.1,76.6,191.9,SUR,GBD metadata,TRUE,108.1,76.6,191.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:10,Ecuador,Upper-middle-income,Latin America and Caribbean,2019,100.8,76.3,178.3,ECU,GBD metadata,TRUE,100.8,76.3,178.3,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:11,Peru,Upper-middle-income,Latin America and Caribbean,2019,64.5,50,115.8,PER,GBD metadata,TRUE,64.5,50,115.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:12,Colombia,Upper-middle-income,Latin America and Caribbean,2019,91,68.3,168,COL,GBD metadata,TRUE,91,68.3,168,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:13,Costa Rica,Upper-middle-income,Latin America and Caribbean,2019,177.4,123,329.8,CRI,GBD metadata,TRUE,177.4,123,329.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:14,Guatemala,Upper-middle-income,Latin America and Caribbean,2019,52.5,39.9,79.8,GTM,GBD metadata,TRUE,52.5,39.9,79.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,25,25:15,Mexico,Upper-middle-income,Latin America and Caribbean,2019,126,91.4,276.2,MEX,GBD metadata,TRUE,126,91.4,276.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:1,Venezuela,Upper-middle-income,Latin America and Caribbean,2019,60.2,46.8,98.2,VEN,GBD metadata,TRUE,60.2,46.8,98.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:2,Brazil,Upper-middle-income,Latin America and Caribbean,2019,155,103.6,380.7,BRA,GBD metadata,TRUE,155,103.6,380.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:3,Paraguay,Upper-middle-income,Latin America and Caribbean,2019,107.8,79.9,166.9,PRY,GBD metadata,TRUE,107.8,79.9,166.9,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:4,Iran,Upper-middle-income,North Africa and Middle East,2019,46.3,37.5,56.1,IRN,GBD metadata,TRUE,46.3,37.5,56.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:5,Iraq,Upper-middle-income,North Africa and Middle East,2019,40.6,33.2,49.8,IRQ,GBD metadata,TRUE,40.6,33.2,49.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:6,Jordan,Upper-middle-income,North Africa and Middle East,2019,51.7,43.7,61.2,JOR,GBD metadata,TRUE,51.7,43.7,61.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:7,Lebanon,Upper-middle-income,North Africa and Middle East,2019,82.3,68.8,95.6,LBN,GBD metadata,TRUE,82.3,68.8,95.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:8,Libya,Upper-middle-income,North Africa and Middle East,2019,35.2,28.6,42.8,LBY,GBD metadata,TRUE,35.2,28.6,42.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:9,Türkiye,Upper-middle-income,North Africa and Middle East,2019,76.5,65.3,89.8,TUR,Explicit source-name alias in analyze.R,TRUE,76.5,65.3,89.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:10,Equatorial Guinea,Upper-middle-income,Sub-Saharan Africa,2019,14.1,10.3,22.1,GNQ,GBD metadata,TRUE,14.1,10.3,22.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:11,Gabon,Upper-middle-income,Sub-Saharan Africa,2019,30.4,20,47.6,GAB,GBD metadata,TRUE,30.4,20,47.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:12,Botswana,Upper-middle-income,Sub-Saharan Africa,2019,60.1,34.5,124.6,BWA,GBD metadata,TRUE,60.1,34.5,124.6,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:13,Namibia,Upper-middle-income,Sub-Saharan Africa,2019,41.2,25.8,74.7,NAM,GBD metadata,TRUE,41.2,25.8,74.7,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:14,South Africa,Upper-middle-income,Sub-Saharan Africa,2019,64,38.7,111.8,ZAF,GBD metadata,TRUE,64,38.7,111.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,26,26:15,American Samoa,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,85,72.2,98.8,ASM,GBD metadata,TRUE,85,72.2,98.8,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,27,27:1,Tokelau,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,186.9,152.7,221.1,TKL,Explicit source-name alias in analyze.R,TRUE,186.9,152.7,221.1,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,27,27:2,Tuvalu,Upper-middle-income,"Southeast Asia, east Asia, and Oceania",2019,150.1,124.4,177.5,TUV,GBD metadata,TRUE,150.1,124.4,177.5,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,27,27:4,Taiwan,High-income,"Southeast Asia, east Asia, and Oceania",2019,222.8,186.8,266.1,TWN,Explicit source-name alias in analyze.R,FALSE,222.8,186.8,266.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:5,Croatia,High-income,"Central Europe, eastern Europe, and central Asia",2019,182.4,142,222.8,HRV,GBD metadata,FALSE,182.4,142,222.8,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:6,Czechia,High-income,"Central Europe, eastern Europe, and central Asia",2019,326.6,249.3,397.3,CZE,GBD metadata,FALSE,326.6,249.3,397.3,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:7,Hungary,High-income,"Central Europe, eastern Europe, and central Asia",2019,211.9,172.6,249.5,HUN,GBD metadata,FALSE,211.9,172.6,249.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:8,Poland,High-income,"Central Europe, eastern Europe, and central Asia",2019,190.7,143.8,229.9,POL,GBD metadata,FALSE,190.7,143.8,229.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:9,Romania,High-income,"Central Europe, eastern Europe, and central Asia",2019,143.7,115.9,171.7,ROU,GBD metadata,FALSE,143.7,115.9,171.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:10,Slovakia,High-income,"Central Europe, eastern Europe, and central Asia",2019,270.3,217.2,320.3,SVK,GBD metadata,FALSE,270.3,217.2,320.3,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:11,Slovenia,High-income,"Central Europe, eastern Europe, and central Asia",2019,394.8,302.1,492.6,SVN,GBD metadata,FALSE,394.8,302.1,492.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:12,Estonia,High-income,"Central Europe, eastern Europe, and central Asia",2019,243,187.9,297.5,EST,GBD metadata,FALSE,243,187.9,297.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:13,Latvia,High-income,"Central Europe, eastern Europe, and central Asia",2019,244.2,193.5,293.7,LVA,GBD metadata,FALSE,244.2,193.5,293.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:14,Lithuania,High-income,"Central Europe, eastern Europe, and central Asia",2019,257.7,199.4,308.5,LTU,GBD metadata,FALSE,257.7,199.4,308.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,27,27:15,Brunei,High-income,High income,2019,146.2,129,168.6,BRN,GBD metadata,FALSE,146.2,129,168.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:1,Japan,High-income,High income,2019,726.5,645.5,832,JPN,GBD metadata,FALSE,726.5,645.5,832,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:2,South Korea,High-income,High income,2019,550.5,495.2,613.3,KOR,GBD metadata,FALSE,550.5,495.2,613.3,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:3,Singapore,High-income,High income,2019,267.8,241.8,299.9,SGP,GBD metadata,FALSE,267.8,241.8,299.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:4,Australia,High-income,High income,2019,1150.4,1035.7,1277,AUS,GBD metadata,FALSE,1150.4,1035.7,1277,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:5,New Zealand,High-income,High income,2019,1013.4,896.1,1176,NZL,GBD metadata,FALSE,1013.4,896.1,1176,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:6,Andorra,High-income,High income,2019,639.7,576.2,714,AND,GBD metadata,FALSE,639.7,576.2,714,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:7,Austria,High-income,High income,2019,1146.4,964.3,1392.4,AUT,GBD metadata,FALSE,1146.4,964.3,1392.4,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:8,Belgium,High-income,High income,2019,1320,1116.5,1623.7,BEL,GBD metadata,FALSE,1320,1116.5,1623.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:9,Cyprus,High-income,High income,2019,290,259.5,325.9,CYP,GBD metadata,FALSE,290,259.5,325.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:10,Denmark,High-income,High income,2019,1380.9,1177.3,1677,DNK,GBD metadata,FALSE,1380.9,1177.3,1677,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:11,Finland,High-income,High income,2019,1043.4,900.5,1236,FIN,GBD metadata,FALSE,1043.4,900.5,1236,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:12,France,High-income,High income,2019,1053.8,919.2,1250.2,FRA,GBD metadata,FALSE,1053.8,919.2,1250.2,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:13,Germany,High-income,High income,2019,1507.8,1263,1909.4,DEU,GBD metadata,FALSE,1507.8,1263,1909.4,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:14,Greece,High-income,High income,2019,440,387.2,510.7,GRC,GBD metadata,FALSE,440,387.2,510.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,28,28:15,Iceland,High-income,High income,2019,1524.5,1278,1917.1,ISL,GBD metadata,FALSE,1524.5,1278,1917.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:1,Ireland,High-income,High income,2019,1362.3,1157.8,1687.1,IRL,GBD metadata,FALSE,1362.3,1157.8,1687.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:2,Israel,High-income,High income,2019,548.3,486,611.9,ISR,GBD metadata,FALSE,548.3,486,611.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:3,Italy,High-income,High income,2019,627.5,554.4,721.1,ITA,GBD metadata,FALSE,627.5,554.4,721.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:4,Luxembourg,High-income,High income,2019,1502.6,1293.1,1823.4,LUX,GBD metadata,FALSE,1502.6,1293.1,1823.4,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:5,Malta,High-income,High income,2019,673.7,583.6,791.7,MLT,GBD metadata,FALSE,673.7,583.6,791.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:6,Netherlands,High-income,High income,2019,1691.9,1391.9,2190.6,NLD,GBD metadata,FALSE,1691.9,1391.9,2190.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:7,Norway,High-income,High income,2019,2138.2,1720.6,2864.1,NOR,GBD metadata,FALSE,2138.2,1720.6,2864.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:8,Portugal,High-income,High income,2019,510.2,453.1,579.7,PRT,GBD metadata,FALSE,510.2,453.1,579.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:9,Spain,High-income,High income,2019,646,579.7,736.6,ESP,GBD metadata,FALSE,646,579.7,736.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:10,Sweden,Low-income,High income,2019,1342.4,1156.3,1611.2,SWE,GBD metadata,TRUE,1342.4,1156.3,1611.2,TRUE,FALSE,entire_interval_at_or_above,included_2019_low_or_middle_income
+S7,29,29:11,Switzerland,High-income,High income,2019,2331.2,1779.5,3634.5,CHE,GBD metadata,FALSE,2331.2,1779.5,3634.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:12,UK,High-income,High income,2019,1044.5,911.1,1228.6,GBR,Explicit source-name alias in analyze.R,FALSE,1044.5,911.1,1228.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:13,Chile,High-income,High income,2019,318.9,285.9,358.2,CHL,GBD metadata,FALSE,318.9,285.9,358.2,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:14,Uruguay,High-income,High income,2019,290.1,259.1,328.1,URY,GBD metadata,FALSE,290.1,259.1,328.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,29,29:15,Canada,High-income,High income,2019,1355,1188.7,1572.6,CAN,GBD metadata,FALSE,1355,1188.7,1572.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:1,USA,High-income,High income,2019,1877.9,1672.9,2121.6,USA,Explicit source-name alias in analyze.R,FALSE,1877.9,1672.9,2121.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:2,Antigua and Barbuda,High-income,Latin America and Caribbean,2019,175.9,123.6,366.9,ATG,GBD metadata,FALSE,175.9,123.6,366.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:3,The Bahamas,High-income,Latin America and Caribbean,2019,386.1,236.6,1029.9,BHS,Explicit source-name alias in analyze.R,FALSE,386.1,236.6,1029.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:4,Barbados,High-income,Latin America and Caribbean,2019,177.9,117.8,420.1,BRB,GBD metadata,FALSE,177.9,117.8,420.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:5,Trinidad and Tobago,High-income,Latin America and Caribbean,2019,238.8,151.6,614.3,TTO,GBD metadata,FALSE,238.8,151.6,614.3,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:6,Panama,High-income,Latin America and Caribbean,2019,131.6,90.2,292,PAN,GBD metadata,FALSE,131.6,90.2,292,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:7,Bahrain,High-income,North Africa and Middle East,2019,187.3,154.4,234.8,BHR,GBD metadata,FALSE,187.3,154.4,234.8,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:8,Kuwait,High-income,North Africa and Middle East,2019,283.7,226.7,364.3,KWT,GBD metadata,FALSE,283.7,226.7,364.3,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:9,Oman,High-income,North Africa and Middle East,2019,138.5,115,172.5,OMN,GBD metadata,FALSE,138.5,115,172.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:10,Qatar,High-income,North Africa and Middle East,2019,345.6,244.2,488.5,QAT,GBD metadata,FALSE,345.6,244.2,488.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:11,Saudi Arabia,High-income,North Africa and Middle East,2019,214.3,170.7,273,SAU,GBD metadata,FALSE,214.3,170.7,273,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:12,United Arab Emirates,High-income,North Africa and Middle East,2019,304.6,230.3,401.7,ARE,GBD metadata,FALSE,304.6,230.3,401.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:13,Mauritius,High-income,"Southeast Asia, east Asia, and Oceania",2019,93.5,78.7,110.9,MUS,GBD metadata,FALSE,93.5,78.7,110.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:14,Seychelles,High-income,"Southeast Asia, east Asia, and Oceania",2019,11.5,8.1,16.5,SYC,GBD metadata,FALSE,11.5,8.1,16.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,30,30:15,Bermuda,High-income,Latin America and Caribbean,2019,1490.8,767.3,4843.4,BMU,GBD metadata,FALSE,1490.8,767.3,4843.4,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:1,Cook Islands,High-income,"Southeast Asia, east Asia, and Oceania",2019,101.6,86.4,119,COK,Explicit source-name alias in analyze.R,FALSE,101.6,86.4,119,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:2,Greenland,High-income,High income,2019,1902.7,1723.1,2128.6,GRL,GBD metadata,FALSE,1902.7,1723.1,2128.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:3,Guam,High-income,"Southeast Asia, east Asia, and Oceania",2019,121.7,103.1,141.5,GUM,GBD metadata,FALSE,121.7,103.1,141.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:4,Monaco,High-income,High income,2019,1728.3,1488.3,2102.9,MCO,GBD metadata,FALSE,1728.3,1488.3,2102.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:5,Nauru,High-income,"Southeast Asia, east Asia, and Oceania",2019,163.1,136.6,193.6,NRU,GBD metadata,FALSE,163.1,136.6,193.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:6,Niue,High-income,"Southeast Asia, east Asia, and Oceania",2019,191.7,160.2,222.6,NIU,Explicit source-name alias in analyze.R,FALSE,191.7,160.2,222.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:7,Northern Mariana Islands,High-income,"Southeast Asia, east Asia, and Oceania",2019,63.9,54.1,75.1,MNP,GBD metadata,FALSE,63.9,54.1,75.1,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:8,Palau,High-income,"Southeast Asia, east Asia, and Oceania",2019,209.6,174.7,242,PLW,GBD metadata,FALSE,209.6,174.7,242,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:9,Puerto Rico,High-income,Latin America and Caribbean,2019,208.2,145.8,439.6,PRI,GBD metadata,FALSE,208.2,145.8,439.6,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:10,Saint Kitts and Nevis,High-income,Latin America and Caribbean,2019,176,118.8,399.5,KNA,GBD metadata,FALSE,176,118.8,399.5,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:11,San Marino,High-income,High income,2019,941.9,820.5,1099.7,SMR,GBD metadata,FALSE,941.9,820.5,1099.7,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income
+S7,31,31:12,Virgin Islands,High-income,Latin America and Caribbean,2019,237.9,162.5,514.9,VIR,Explicit source-name alias in analyze.R,FALSE,237.9,162.5,514.9,TRUE,FALSE,entire_interval_at_or_above,excluded_2019_high_income

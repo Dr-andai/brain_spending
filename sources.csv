@@ -1,0 +1,10 @@
+file,used_by,bytes,sha256,source
+inputs/countries_above_10pct.csv,Figure 1,6681,179bc5a51da412d34344a052b44a445cbe9ae6c72b44d3d336088e0b90b57fd1,"Staged roster: total current health expenditure >10% of GDP in 2023, from World Bank SH.XPD.CHEX.GD.ZS (WHO GHED), with 2019-2023 endpoint changes"
+inputs/dementia_incidence_asr.data.json,Figure 2,161360,e85e3522f59caad48b12b27705ed12e4433b54b3f1b50bd72c5c4575f184c93b,"Our World in Data / IHME GBD 2023 dementia incidence, series 1181423 (data)"
+inputs/dementia_incidence_asr.metadata.json,Figure 2,13786,64e5bf8ea670c401387ba63ce3fadcb1b7a0e564499e82dde51d7b15b291e1a6,"Our World in Data / IHME GBD 2023 dementia incidence, series 1181423 (metadata)"
+inputs/outcome_panel_with_income.csv,Figure 1,590047,7f950e9c49603defea09544966860eab053ff3f7e89e260b5de3fcd9ed4e8fe8,Staged outcome panel with World Bank income groups; archived from the Figure 1 source project
+inputs/outcome_rates.csv,Figures 3-4,240624,639a3192a1ef4aced1db651a4c464429bf336f10016507e92df7988e4c8ec75b,"Columns iso3,country,region,metric,year,value taken from the Figure 2 outcome panel"
+inputs/spending_all_204.csv,Figure 2,40398,bb093cce46f1bf7108e01a6caeb7b052de0bf1de77670e03420a4cc443a30113,"Mitchell et al. (2025) Lancet Public Health, Supplementary Table S7 (pages 18-31), doi:10.1016/S2468-2667(25)00089-1"
+inputs/wb_countries.json,Figures 3-4,113954,c9acf3932785191a649cbc04c3056af4cf64a236e5c3b49d49be25ddb0440bce,https://api.worldbank.org/v2/country?format=json&per_page=400 (retrieved 15 October 2026)
+inputs/wb_current_health_per_capita.json,Figures 3-4,326633,1c770b7a7c627ab411f40ed37e627ab5afd7ec30c7c07b4d13d871991e63e16e,https://api.worldbank.org/v2/country/all/indicator/SH.XPD.CHEX.PC.CD?date=2019:2023&format=json&per_page=20000
+inputs/who_death_rates_asr.xlsx,Figure 2,11422214,f778bab9a60cb37604601441a94d5e6e4767898442e4f7dceac9125554179e3e,WHO Global Health Estimates age-standardized death rates (ASDR sheets 2019-2023)
