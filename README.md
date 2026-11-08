@@ -1,4 +1,4 @@
-# final_expo
+# Brain Spending
 
 Four figures on brain health outcomes and health spending, with the data and R
 scripts that produce them. Nothing is downloaded at build time.
